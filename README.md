@@ -39,3 +39,8 @@ cd 'MiSyte'
 ```
 cd ..
 ```
+
+## How to Add a New app to a Django Project
+```
+py manage.py startapp polls
+```
