@@ -47,7 +47,7 @@ py manage.py startapp polls
 
 ## How to Add a 'Views' Path to my Polls app
 
-Make a 'views' Path within The Polls app 
+Make a 'views' Path within The Polls app. 
 This Code creates a Views Path in The Polls app when put into the urls.py File
 
 ```
