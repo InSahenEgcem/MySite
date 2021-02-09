@@ -9,7 +9,7 @@ cd mysite
 py manage.py runserver
 ```
 
-To view the site click here.
+To view the site click [Visit MiSyte!] (http://127.0.0.1:8000/).
 
 ## How to 'Commit' in Git
 How to save code into your Git Repository(Repo)
