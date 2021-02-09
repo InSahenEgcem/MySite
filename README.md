@@ -9,6 +9,8 @@ cd mysite
 py manage.py runserver
 ```
 
+To view the site click here.
+
 ## How to 'Commit' in Git
 How to save code into your Git Repository(Repo)
 
